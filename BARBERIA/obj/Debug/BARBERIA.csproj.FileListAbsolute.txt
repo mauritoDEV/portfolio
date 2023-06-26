@@ -1,0 +1,12 @@
+C:\Users\Mau\source\repos\BARBERIA\bin\Debug\BARBERIA.exe.config
+C:\Users\Mau\source\repos\BARBERIA\bin\Debug\BARBERIA.exe
+C:\Users\Mau\source\repos\BARBERIA\bin\Debug\BARBERIA.pdb
+C:\Users\Mau\source\repos\BARBERIA\bin\Debug\LibreriaColecciones.dll
+C:\Users\Mau\source\repos\BARBERIA\bin\Debug\LibreriaColecciones.pdb
+C:\Users\Mau\source\repos\BARBERIA\obj\Debug\BARBERIA.csprojAssemblyReference.cache
+C:\Users\Mau\source\repos\BARBERIA\obj\Debug\BARBERIA.Barberia.resources
+C:\Users\Mau\source\repos\BARBERIA\obj\Debug\BARBERIA.Properties.Resources.resources
+C:\Users\Mau\source\repos\BARBERIA\obj\Debug\BARBERIA.csproj.GenerateResource.cache
+C:\Users\Mau\source\repos\BARBERIA\obj\Debug\BARBERIA.csproj.CopyComplete
+C:\Users\Mau\source\repos\BARBERIA\obj\Debug\BARBERIA.exe
+C:\Users\Mau\source\repos\BARBERIA\obj\Debug\BARBERIA.pdb

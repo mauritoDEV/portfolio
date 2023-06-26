@@ -1,0 +1,8 @@
+C:\Users\Mau\source\repos\carpinteria_nico\bin\Debug\netstandard2.0\carpinteria_nico.deps.json
+C:\Users\Mau\source\repos\carpinteria_nico\bin\Debug\netstandard2.0\carpinteria_nico.dll
+C:\Users\Mau\source\repos\carpinteria_nico\bin\Debug\netstandard2.0\carpinteria_nico.pdb
+C:\Users\Mau\source\repos\carpinteria_nico\obj\Debug\netstandard2.0\carpinteria_nico.csprojAssemblyReference.cache
+C:\Users\Mau\source\repos\carpinteria_nico\obj\Debug\netstandard2.0\carpinteria_nico.AssemblyInfoInputs.cache
+C:\Users\Mau\source\repos\carpinteria_nico\obj\Debug\netstandard2.0\carpinteria_nico.AssemblyInfo.cs
+C:\Users\Mau\source\repos\carpinteria_nico\obj\Debug\netstandard2.0\carpinteria_nico.dll
+C:\Users\Mau\source\repos\carpinteria_nico\obj\Debug\netstandard2.0\carpinteria_nico.pdb
