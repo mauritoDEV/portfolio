@@ -1,0 +1,17 @@
+C:\Users\beast\Desktop\panaderiaForm\bin\Debug\net6.0-windows\panaderiaForm.exe
+C:\Users\beast\Desktop\panaderiaForm\bin\Debug\net6.0-windows\panaderiaForm.deps.json
+C:\Users\beast\Desktop\panaderiaForm\bin\Debug\net6.0-windows\panaderiaForm.runtimeconfig.json
+C:\Users\beast\Desktop\panaderiaForm\bin\Debug\net6.0-windows\panaderiaForm.dll
+C:\Users\beast\Desktop\panaderiaForm\bin\Debug\net6.0-windows\panaderiaForm.pdb
+C:\Users\beast\Desktop\panaderiaForm\obj\Debug\net6.0-windows\panaderiaForm.csproj.AssemblyReference.cache
+C:\Users\beast\Desktop\panaderiaForm\obj\Debug\net6.0-windows\panaderiaForm.Form1.resources
+C:\Users\beast\Desktop\panaderiaForm\obj\Debug\net6.0-windows\panaderiaForm.csproj.GenerateResource.cache
+C:\Users\beast\Desktop\panaderiaForm\obj\Debug\net6.0-windows\panaderiaForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beast\Desktop\panaderiaForm\obj\Debug\net6.0-windows\panaderiaForm.AssemblyInfoInputs.cache
+C:\Users\beast\Desktop\panaderiaForm\obj\Debug\net6.0-windows\panaderiaForm.AssemblyInfo.cs
+C:\Users\beast\Desktop\panaderiaForm\obj\Debug\net6.0-windows\panaderiaForm.csproj.CoreCompileInputs.cache
+C:\Users\beast\Desktop\panaderiaForm\obj\Debug\net6.0-windows\panaderiaForm.dll
+C:\Users\beast\Desktop\panaderiaForm\obj\Debug\net6.0-windows\refint\panaderiaForm.dll
+C:\Users\beast\Desktop\panaderiaForm\obj\Debug\net6.0-windows\panaderiaForm.pdb
+C:\Users\beast\Desktop\panaderiaForm\obj\Debug\net6.0-windows\panaderiaForm.genruntimeconfig.cache
+C:\Users\beast\Desktop\panaderiaForm\obj\Debug\net6.0-windows\ref\panaderiaForm.dll
