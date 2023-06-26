@@ -1,0 +1,16 @@
+
+
+- usuario de BD 
+
+	servidor:localhost
+	dbname=dbaberturas
+	usuario: Ezequiel
+	contraseña: 1234
+	operaciones permitidas sobre la BD : select, insert, update, delete 
+	
+
+- Usuarios y contraseña
+
+	usuario 123 - psw: 123 
+	usuario	456 - psw: 456
+	usuario	789 - psw: 789<------------ este es el unico con privilegios de hacer las consultas filtradas

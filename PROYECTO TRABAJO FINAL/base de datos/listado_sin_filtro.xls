@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Sitio Trabajo Final</title>
+</head>
+ 
+<body>
+		<table> 
+			<caption><strong>Listado de Presupuestos<strong></caption>
+			<tr>
+				<th>Presupuesto</th>
+				<th>Cliente</th>
+				<th>Fecha</th>
+				<th>Tipo</th>
+				<th>Descripción</th>
+				<th>Alto</th>
+				<th>Ancho</th>
+				<th>Accesorios</th>
+				<th>Vidrios</th>
+				<th>Precio</th>
+			</tr>
+			
+		
+				<tr class="constxt1">
+					<td>1</td>
+					<td>ezequiel</td>
+					<td>05-11-2019</td>
+					<td>3.00</td>
+					<td>4.00</td>
+					<td>ventana</td>
+					<td>corrediza</td>
+					<td>SI</td>
+					<td>dvh2</td>
+					<td>74100.0000</td>
+				</tr>
+				<tr class="constxt1">
+					<td>2</td>
+					<td>polilla</td>
+					<td>10-11-2019</td>
+					<td>3.00</td>
+					<td>2.00</td>
+					<td>puerta</td>
+					<td>rebatir</td>
+					<td>NO</td>
+					<td></td>
+					<td>74880.0000</td>
+				</tr>
+				<tr class="constxt1">
+					<td>3</td>
+					<td>rick</td>
+					<td>15-11-2019</td>
+					<td>1.00</td>
+					<td>2.00</td>
+					<td>ventanta</td>
+					<td>paÃ±o fijo</td>
+					<td>NO</td>
+					<td>dvh1</td>
+					<td>5408.0000</td>
+				</tr>
+				<tr class="constxt1">
+					<td>4</td>
+					<td>ezequiel</td>
+					<td>20-11-2019</td>
+					<td>2.00</td>
+					<td>2.00</td>
+					<td>puerta</td>
+					<td>rebatir</td>
+					<td>NO</td>
+					<td>dvh2</td>
+					<td>23140.0000</td>
+				</tr>
+	
+		</table>
+		
+</body>
+</html>

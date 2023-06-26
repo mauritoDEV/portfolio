@@ -1,0 +1,106 @@
+.thumbnail {
+ position: relative;
+}
+.caption {
+ position: absolute;
+ top: 55%;
+ left: -30%;
+ width: 100%;
+}
+
+.carousel-caption {
+  background-color: rgba(2,2,2,0.50);
+  height: 30%;
+  left: 0%;
+  top:70%; 
+  text-align: center;
+  width: 100%;
+}
+.carousel-caption .h1{
+	line-height: 30px;
+	margin-top: 0px;
+}
+
+
+.global-container{
+	height:100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #f5f5f5;
+}
+
+.card.login-form {
+    background-color: aliceblue;
+    width: 20em;
+}
+
+.card-title{ 
+	font-weight:100px; }
+
+.card-body{
+	height:80%;
+	padding: 5px 6px 6px 6px ;
+}
+.card .login-form{ 
+
+	width:330px;
+	margin:5px;
+}
+.card-text{
+height:80%;
+	padding: 5px 6px 6px 6px ;
+width:330px;
+}
+form{
+	padding-top: 10px;
+	font-size: 14px;
+	margin-top: 30px;
+}
+.form-control {
+	width: 80%;
+}
+.btn{
+	font-size: 14px;
+	margin-top:0px;
+}
+.btn-block {
+	width: 80%;
+}
+.sign-up{
+	text-align:center;
+	padding:20px 0 0;
+}
+
+.alert{
+	margin-bottom:-30px;
+	font-size: 13px;
+	margin-top:20px;
+}
+
+#encabprint { display:none; text-align:left;}	
+/* media print*/
+@media print {
+
+	/* 	estilos para impresion 		*/
+		#encabprint { display:block;}
+		
+		body { 
+			font-size:14pt; 
+			font-family:"times new roman",times;
+			color:#000;
+			background-color:#FFFFFF; 	
+			width:100%;
+			border:none;
+		}
+		header {
+			display: none;
+		}
+		#opc_filtro { display:none;}
+		
+		#imprimir_pdf { display:none;}
+		
+		#pie {  display:none;}
+
+		
+}

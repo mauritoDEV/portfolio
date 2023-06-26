@@ -1,0 +1,24 @@
+Hola,
+buen trabajo!
+Les paso unos items a corregir.
+
+En las consultas 
+
+	arreglado : versión print - ocultar el menú, la barra de session, el formulario del filtro, iconos de impresión y excel 
+(también podría ponerse el nombre de la empresa como titulo)
+
+	arreglado : excel -> ordenado por cliente primero y luego por numero de presupuesto; cuando se detalla tipo, poner la descripción; si tiene 
+accesorios indicar SI/NO (no 0 o 1)
+
+arreglado Si no me logueo, no tiene habilitado el menú de consultas filtradas, sin embargo al poner consultas_filtradas.php, en la URL, puedo acceder a dicho archivo
+
+arreglado El archivo consultas_filtradas.php tiene que tener control del perfil del usuario actual
+		
+
+El menú de ABM (presupuestoalpha.php), tiene que estar habilitado cuando el usuario esta logueado y tiene algún perfil (se puede acceder sin loguearse)
+
+	Error en javascript, el ! va adentro de los parentesis, x ejemplo  if (!document.getElementsByName(prestacion).value=="") 
+
+	Formulario, sin cargar datos, se hace clic en el botón 'Agregar' y redirige la pagina; hay algún error en la función validar (ir probando de a poco, primero un campo e ir agregando otro) - mirar la console, como guía para ver los errores.
+
+	Faltan las etiquetas <label>
